@@ -1,0 +1,1 @@
+основной скрипт - create_database.sql
